@@ -6,7 +6,7 @@ Settings that define the appearance of the star rating views.
 
 */
 public struct CosmosSettings {
-  init() {}
+  public init() {}
   
   // MARK: - Star settings
   // -----------------------------
